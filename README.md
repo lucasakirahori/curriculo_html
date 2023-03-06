@@ -1,4 +1,4 @@
-# Curriculo em HTML - P/ visualizar https://lucasakirahori.github.io/curriculo_html/
+# Curriculo em HTML - P/ visualizar 
 
 
 1. Abrindo a estrutura do HTML digitando "html :5";
